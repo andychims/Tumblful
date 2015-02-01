@@ -1,0 +1,548 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"todo",
+				"todo"
+			],
+			[
+				"colu",
+				"columnClicked"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"oscTwo",
+				"oscTwoFreq"
+			],
+			[
+				"interva",
+				"intervalVal"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"osctwo",
+				"oscTwoFreq"
+			],
+			[
+				"audio",
+				"audio"
+			],
+			[
+				"fil",
+				"filterQ"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"hig",
+				"colCounterHighlighted"
+			],
+			[
+				"colC",
+				"colCount"
+			],
+			[
+				"col",
+				"colCounter"
+			],
+			[
+				"row",
+				"rowClicked"
+			],
+			[
+				"rw",
+				"rowClicked"
+			],
+			[
+				"get",
+				"getTempo"
+			],
+			[
+				"stop",
+				"stopIt"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"padTen",
+				"padTen"
+			],
+			[
+				"pad",
+				"padNumber"
+			],
+			[
+				"high",
+				"highlightIt"
+			],
+			[
+				"fre",
+				"freqMod1"
+			],
+			[
+				"att",
+				"attack"
+			],
+			[
+				"attack",
+				"attackSlider"
+			],
+			[
+				"lfo",
+				"lfo"
+			],
+			[
+				"os",
+				"osc2"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"osc",
+				"oscPitch"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"yy",
+				"yy"
+			],
+			[
+				"sear",
+				"searchResults"
+			],
+			[
+				"Title",
+				"Title"
+			],
+			[
+				"ge",
+				"getRequest"
+			],
+			[
+				"resul",
+				"resultsCopy"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"play",
+				"playHadouken"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"hea",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andychimicles/Documents/Projects/thinkful/Tumblful"
+	],
+	"file_history":
+	[
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/app/views/shared/_left_nav.html.erb",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/app/views/devise/mailer/reset_password_instructions.html.erb",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/app/views/home/_sign_in.html.erb",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/app/helpers/tweets_helper.rb",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/tmp/cache/assets/development/sass/f802a84365b8f9e7b14589e610eb613b5b4d688d/follows.css.scssc",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/config/environments/production.rb",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/config/initializers/mime_types.rb",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/config.ru",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/app/assets/javascripts/application.js",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/config/application.rb",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/app/helpers/follows_helper.rb",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/spec/models/follow_spec.rb",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/tweetful.sublime-project",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/spec/factories/follows.rb",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/app/models/follow.rb",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/app/assets/about.css",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/app/controllers/about_controller.rb",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/app/helpers/about_helper.rb",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/app/controllers/tweets_controller.rb",
+		"/Users/andychimicles/Documents/Projects/thinkful/Tweetful/app/assets/stylesheets/about.css.scss",
+		"/Users/andychimicles/Documents/Projects/thinkful/Noteful/app/models/note.rb",
+		"/Users/andychimicles/Documents/Projects/thinkful/noteful/app/views/notes/index.html.erb",
+		"/Users/andychimicles/Nitrous/blue-meteor-21/course_notes/noteful/app.rb",
+		"/Users/andychimicles/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/andychimicles/Documents/Projects/thinkful/sandbox/app.js",
+		"/Users/andychimicles/Documents/Projects/thinkful/sandbox/style.css",
+		"/Users/andychimicles/Documents/Projects/thinkful/sandbox/index.html",
+		"/Users/andychimicles/Documents/Projects/thinkful/sandbox/reset.css",
+		"/Users/andychimicles/Documents/Projects/thinkful/testing/style.css",
+		"/Users/andychimicles/Documents/Projects/thinkful/testing/index.html",
+		"/Users/andychimicles/Documents/Projects/thinkful/testing/app.js",
+		"/Users/andychimicles/Documents/Projects/thinkful/testing/reset.css",
+		"/Users/andychimicles/Documents/Projects/thinkful/spotify-api/app.js",
+		"/Users/andychimicles/Documents/Projects/thinkful/spotify-api/main.css",
+		"/Users/andychimicles/Documents/Projects/thinkful/spotify-api/index.html",
+		"/Users/andychimicles/Documents/Projects/thinkful/stackerAJAX/main.css",
+		"/Users/andychimicles/Documents/Projects/thinkful/stackerAJAX/index.html",
+		"/Users/andychimicles/Documents/Projects/thinkful/stackerAJAX/app.js",
+		"/Users/andychimicles/Documents/Projects/thinkful/youtube-api/app.js",
+		"/Users/andychimicles/Documents/Projects/thinkful/youtube-api/index.html",
+		"/Users/andychimicles/Documents/Projects/thinkful/youtube-api/style.css",
+		"/Users/andychimicles/Documents/Projects/thinkful/api-test/index.html",
+		"/Users/andychimicles/Documents/Projects/thinkful/api-test/style.css",
+		"/Users/andychimicles/Documents/Projects/thinkful/api-test/app.js",
+		"/Users/andychimicles/Downloads/Quiz-gh-pages/index.html",
+		"/Users/andychimicles/Documents/Projects/thinkful/jquery-streetfighter/jquery-streetfighter/css/reset.css",
+		"/Users/andychimicles/Documents/Projects/thinkful/jquery-streetfighter/jquery-streetfighter/main.html",
+		"/Users/andychimicles/Documents/Projects/thinkful/jquery-streetfighter/jquery-streetfighter/js/app.js",
+		"/Users/andychimicles/Documents/Projects/thinkful/jquery-streetfighter/jquery-streetfighter/css/main.css",
+		"/Users/andychimicles/Desktop/thinkful/bootstrap-3.3.1/dist/css/bootstrap.css",
+		"/Users/andychimicles/Desktop/thinkful/bootstrap-3.3.1/dist/bootstrap.html",
+		"/Users/andychimicles/Desktop/thinkful/bootstrap-3.3.1/dist/Theme Template for Bootstrap.html",
+		"/Users/andychimicles/Desktop/thinkful/bootstrap-3.3.1/bootstrap.html",
+		"/Users/andychimicles/Desktop/thinkful/bootstrap-3.3.1/dist/css/bootstrap.min.css",
+		"/Users/andychimicles/Desktop/thinkful/landingpage/css/style.css",
+		"/Users/andychimicles/Desktop/thinkful/landingpage/index.html",
+		"/Users/andychimicles/Desktop/thinkful/bootstrap site/untitled.html",
+		"/Users/andychimicles/Desktop/thinkful/landingpage/css/font-awesome.min.css",
+		"/Users/andychimicles/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/andychimicles/Desktop/thinkful/mystyle.css",
+		"/Users/andychimicles/Desktop/thinkful/freshprince.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"drum.*bass",
+			"list-unstyl",
+			"who to follow",
+			"list",
+			"list-unstyled",
+			"dismiss alert",
+			"compose new tweet",
+			"tweet",
+			"unfollow",
+			"who to follow",
+			"sign out",
+			"compose new twe",
+			"follow",
+			"\"/follows\"",
+			"href=\"/follows\"",
+			"compose new tweet",
+			"alpabetical",
+			"alphabetical",
+			"who to follow",
+			"follow_link",
+			"preview",
+			"dis",
+			"pitch",
+			"interval",
+			"octav",
+			"type",
+			"rowclick",
+			"value",
+			"padnumb",
+			"padnum",
+			"pads",
+			"function",
+			"osctwo",
+			"get",
+			"remov",
+			"click",
+			"tempoval",
+			"tempo",
+			"biq",
+			"connect",
+			"gain",
+			"removec",
+			"position",
+			"tempo",
+			"intervali",
+			"intervalif",
+			"tempo",
+			"decay",
+			"remove",
+			"padval",
+			"song",
+			"note",
+			"song",
+			"createos",
+			"play",
+			"tempo",
+			"interval",
+			"oscilla",
+			"stop",
+			"tempo",
+			"settime",
+			"attack",
+			"tempo",
+			"interval",
+			"hover",
+			"settings",
+			"qwerty",
+			".done",
+			"stack",
+			"consol",
+			"answers",
+			"consol",
+			"results for",
+			"console.",
+			"showSearch",
+			"query",
+			"results for ",
+			"showquest",
+			"consol",
+			"result",
+			"asker",
+			"user_id",
+			"userid",
+			"searchresul",
+			"getunanswere",
+			"unanswered",
+			"done",
+			"result ",
+			".results",
+			"empty",
+			".empty",
+			"templates",
+			"result",
+			"data.sear",
+			">\n",
+			".jumbotron .container",
+			".container",
+			"bootstr",
+			"border",
+			"content",
+			"main-header",
+			"clear",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"row",
+			"column",
+			"introduction"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "thumbful.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"application.css",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"application.html",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"application_h",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"follows/ind",
+				"app/views/follows/index.html.erb"
+			],
+			[
+				"about",
+				"app/assets/about.css"
+			],
+			[
+				"tweet",
+				"tweets_controller.rb"
+			],
+			[
+				"hom",
+				"home_controller.rb"
+			],
+			[
+				"abou",
+				"about_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
