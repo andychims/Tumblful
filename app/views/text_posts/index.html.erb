@@ -1,6 +1,12 @@
 
- <% @text_posts.each do |i| %>
- 	<p><b>id is:</b> <%= i.id %>, <b>title is:</b> <%= i.title %>, <b>content is:</b> <%= i.content %>
- <% end %>
-
-
+<div>
+  <% @text_posts.each do |textpost| %>
+    <%= div_for textpost do %>
+      ..............
+      ..............
+      <p>
+        <%= link_to textpost.title, textpost %> | <%= textpost.content %>
+      </p>
+    <% end %>
+  <% end %>
+</div>

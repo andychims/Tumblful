@@ -17,6 +17,10 @@ Tumblful::Application.routes.draw do
 
   resources :text_posts
 
+  resources :test_controller
+
+  # resources :text_post_test
+
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 

@@ -1,0 +1,9 @@
+<h1>hello!!</h1>
+
+<% @text_post_test.each do |i| %>
+	<%= content_tag :p, i.content %>
+<% end %>
+
+<% @image_links_test.each do |i| %>
+	<%= content_tag :p, i.url %>
+<% end %>
