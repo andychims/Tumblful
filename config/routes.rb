@@ -19,6 +19,9 @@ Tumblful::Application.routes.draw do
 
   resources :test_controller
 
+  resources :likes, :only => [:create]
+
+
   # resources :text_post_test
 
   # Example of regular route:
