@@ -3,6 +3,12 @@ class LikesController < ApplicationController
   def create
     @like = Like.create(like_params)
     redirect_to :back
+
+    # Respond to different request formats
+    respond_to do |format|
+      format.html { redirect_to :back }
+      format.js
+    end
   end
 
   private
