@@ -27,3 +27,15 @@ nav ul {
 	position: relative;
 	left: 22px;
 }
+
+.thumbnail {
+	height: 80px;
+	width: 80px;
+}
+
+.large_img {
+	height:100px;
+	width:100px;
+	  -mox-box-shadow: 0 0 15px #888;
+  -webkit-box-shadow: 0 0 15px #888;
+}

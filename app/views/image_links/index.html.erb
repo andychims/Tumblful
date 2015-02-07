@@ -1,15 +1,16 @@
 
 <a href="<%= new_image_link_path %>">create a new imagelink</a>
 
-
+<!-- the imagelinks loop -->
 <% @image_links.each do |image_link| %>
-  <h2><%= image_link.title %></h2>
-  <%= image_tag image_link.url %>
+  <h2><%= link_to image_link.title, image_link %></h2>
+  <%= image_tag image_link.url, :class => "image-link-image thumbnail" %>
 
   <span class='likes pull-left'>
   <%= image_link.likes.count %> likes
   </span>
 
+  <!-- like buttons -->
   <%= form_for Like.new do |f| %>
     <%= f.hidden_field :likeable_type, :value => image_link.class %>
     <%= f.hidden_field :likeable_id, :value => image_link.id %>
